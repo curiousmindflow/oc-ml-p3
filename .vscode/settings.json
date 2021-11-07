@@ -15,6 +15,7 @@
         "**/Thumbs.db": true,
         "**/__pycache__/**": true
     },
+    "editor.hover.above": false,
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
     "jupyter.jupyterServerType": "local",
